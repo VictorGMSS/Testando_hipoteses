@@ -1,67 +1,63 @@
-# Alura_Ciencia_de_dados_testando_hipoteses
+# 📊 Data Science: Testando Hipóteses
 
-# 📊 Data Science: Hypothesis Testing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Alura_Ciencia_de_dados_testando_hipoteses/blob/main/testando_hipoteses.ipynb)
 
-Projeto desenvolvido durante meus estudos de Estatística aplicada à Ciência de Dados, com foco em formulação e validação de hipóteses utilizando Python.
-
----
-
-## 🚀 Sobre o Projeto
-
-Este projeto explora conceitos fundamentais de testes estatísticos e inferência estatística aplicados à análise de dados.
-
-Foram utilizadas técnicas para validação de hipóteses, construção de intervalos de confiança e comparação entre grupos amostrais, permitindo tomadas de decisão orientadas por evidências estatísticas.
+Projeto prático desenvolvido durante o curso **"[NOME DO CURSO]"**. O objetivo deste repositório é aplicar conceitos de **inferência estatística** e **testes de hipóteses** com Python, formulando e validando hipóteses, construindo intervalos de confiança e comparando grupos amostrais para apoiar decisões com base em evidências estatísticas.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🎯 Objetivos do Projeto
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-</p>
-
-### Bibliotecas
-
-* Pandas
-* NumPy
-* SciPy
-* Statsmodels
-* Matplotlib
-* Seaborn
+* **Formulação de Hipóteses:** Definir hipóteses nula e alternativa para os problemas analisados.
+* **Intervalos de Confiança:** Construir intervalos de confiança para estimar parâmetros populacionais.
+* **Significância Estatística:** Interpretar o **p-valor** e o nível de significância para decidir sobre as hipóteses.
+* **Testes para Uma Amostra:** Aplicar o **teste t** e o **teste z** para uma amostra.
+* **Comparação entre Grupos:** Comparar médias de grupos **independentes** e **pareados**.
+* **Análise de Distribuição:** Analisar a distribuição dos dados e validar estatisticamente os resultados.
 
 ---
 
-## 📚 Conceitos Aplicados
+## 🗂️ Estrutura do Repositório
 
-✔️ Formulação de hipóteses estatísticas
-✔️ Intervalos de confiança
-✔️ Significância estatística
-✔️ Interpretação de p-valor
-✔️ Teste t para uma amostra
-✔️ Teste z para uma amostra
-✔️ Comparação entre grupos independentes
-✔️ Comparação entre grupos pareados
+* `testando_hipoteses.ipynb`: Notebook principal com a formulação das hipóteses, os testes estatísticos, os intervalos de confiança e as visualizações.
+* `[base_de_dados.csv]`: Base de dados utilizada no projeto. `[PREENCHER: nome, descrição e variáveis]`
 
 ---
 
-## 📈 Técnicas Estatísticas Utilizadas
+## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-* Inferência estatística
-* Testes de hipótese
-* Análise de distribuição
-* Comparação entre médias
-* Validação estatística de resultados
-* Interpretação de significância
-
----
-
-## 📌 Objetivo do Projeto
-
-Desenvolver habilidades práticas em inferência estatística e testes de hipóteses, aplicando conceitos fundamentais utilizados em análise de dados, experimentação e Machine Learning.
+* **Python 3**
+* **Pandas & NumPy:** Manipulação e cálculo numérico dos dados.
+* **SciPy:** Realização dos testes de hipóteses.
+* **Statsmodels:** Testes estatísticos e intervalos de confiança.
+* **Matplotlib & Seaborn:** Criação das visualizações e da análise de distribuição.
 
 ---
 
-## 👨‍💻  Informações pessoais
+## 🚀 Etapas Desenvolvidas no Notebook
+
+1. **Formulação de Hipóteses:** Definição das hipóteses nula e alternativa e do nível de significância (`[PREENCHER]`).
+2. **Análise de Distribuição:** Exploração dos dados e visualização da distribuição das variáveis (`[PREENCHER]` registros).
+3. **Intervalos de Confiança:** Construção de intervalos de confiança para a média (`[PREENCHER: variável e resultado]`).
+4. **Testes para Uma Amostra:** Aplicação do **teste t** e do **teste z** e interpretação do p-valor (`[PREENCHER: resultados]`).
+5. **Comparação entre Grupos:** Teste de diferença entre médias de grupos **independentes** e **pareados**, com interpretação da significância (`[PREENCHER: resultados]`).
+
+---
+
+## 💻 Como Executar
+
+1. **Via Google Colab (Recomendado):** Clique no botão **"Open in Colab"** no topo deste README para abrir e executar o notebook diretamente no navegador sem precisar configurar ambiente local.
+2. **Localmente:**
+```bash
+git clone https://github.com/VictorGMSS/Alura_Ciencia_de_dados_testando_hipoteses.git
+cd Alura_Ciencia_de_dados_testando_hipoteses
+pip install pandas numpy scipy statsmodels matplotlib seaborn jupyter
+jupyter notebook testando_hipoteses.ipynb
+```
+
+---
+
+## 👨‍💻 Informações pessoais
 
 Victor Gabriel Martins e Souza
 

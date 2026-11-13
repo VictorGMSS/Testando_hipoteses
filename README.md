@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Alura_Ciencia_de_dados_testando_hipoteses/blob/main/testando_hipoteses.ipynb)
 
-Projeto prático desenvolvido durante o curso **"[NOME DO CURSO]"**. O objetivo deste repositório é aplicar conceitos de **inferência estatística** e **testes de hipóteses** com Python, formulando e validando hipóteses, construindo intervalos de confiança e comparando grupos amostrais para apoiar decisões com base em evidências estatísticas.
+Projeto prático desenvolvido durante o curso na **"Alura"**. O objetivo deste repositório é aplicar conceitos de **inferência estatística** e **testes de hipóteses** com Python, formulando e validando hipóteses, construindo intervalos de confiança e comparando grupos amostrais para apoiar decisões com base em evidências estatísticas.
 
 ---
 
